@@ -1,2 +1,9 @@
-# Course_Management_System
-A simple C++ Course Management System that allows users to manage courses, enroll and drop students, and display course details.
+# Course Management System
+
+## Overview
+This is a simple C++ course management system that allows users to:
+- Manage courses (add, cancel, display).
+- Enroll and drop students from courses.
+- Read and write course information from a file.
+
+## Project Structure
